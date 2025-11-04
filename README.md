@@ -1,8 +1,8 @@
-# íº€ LinkerFood - TrampaÃª
+# ï¿½ï¿½ï¿½ LinkerFood 
 
 App inovador que permite entregadores se candidatarem para trabalhar com restaurantes prÃ³ximos, com pagamento instantÃ¢neo por entrega.
 
-## í³± Funcionalidades
+## ï¿½ï¿½ï¿½ Funcionalidades
 
 - âœ… Descobrir restaurantes prÃ³ximos
 - âœ… Solicitar vÃ­nculo com restaurantes
@@ -10,14 +10,14 @@ App inovador que permite entregadores se candidatarem para trabalhar com restaur
 - âœ… Acompanhar histÃ³rico e ganhos diÃ¡rios
 - âœ… Sistema de avaliaÃ§Ãµes
 
-## í» ï¸ Tecnologias
+## ï¿½ï¿½ï¿½ï¸ Tecnologias
 
 - **React 18** - Interface moderna
 - **Vite** - Build rÃ¡pido
 - **Tailwind CSS** - EstilizaÃ§Ã£o
 - **Lucide React** - Ãcones
 
-## íº€ Como rodar o projeto
+## ï¿½ï¿½ï¿½ Como rodar o projeto
 ```bash
 # Instalar dependÃªncias
 npm install
@@ -29,7 +29,7 @@ npm run dev
 npm run build
 ```
 
-## í³‚ Estrutura do Projeto
+## ï¿½ï¿½ï¿½ Estrutura do Projeto
 ```
 src/
 â”œâ”€â”€ components/     # Componentes reutilizÃ¡veis
@@ -44,10 +44,10 @@ src/
 â””â”€â”€ utils/         # FunÃ§Ãµes utilitÃ¡rias
 ```
 
-## í±¨â€í²» Desenvolvedor
+## ï¿½ï¿½ï¿½â€ï¿½ï¿½ï¿½ Desenvolvedor
 
 **JoÃ£o Pedro** - [@jptwelvee](https://github.com/jptwelvee)
 
-## í³ LicenÃ§a
+## ï¿½ï¿½ï¿½ LicenÃ§a
 
 MIT License
