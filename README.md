@@ -44,9 +44,7 @@ src/
 └── utils/         # Funções utilitárias
 ```
 
-## ���‍��� Desenvolvedor
 
-**João Pedro** - [@jptwelvee](https://github.com/jptwelvee)
 
 ## ��� Licença
 
